@@ -3,3 +3,10 @@ body {
 	background-image: url("darshil.jpg");
 }
 
+h1 {
+	font-size: 200px;
+	color: white;
+	font-family: Raleway;
+	font-weight: 800;
+}
+
